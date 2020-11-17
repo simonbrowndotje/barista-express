@@ -48,7 +48,7 @@ I did some research, and saw you could change the internal burr setting, to make
 
 I'd read that light-medium roasted beans are harder to dial in, so I switched beans, with the next bag being a darker roast. These beans were a bit easier to dial in. The grind setting was coarser, the espresso flow looked more consistent, and I could definitely taste the chocolate flavour mentioned in the tasting notes. But the darker roast was a bit too much for me, so I went back to something medium roasted and fruity for the next bag. Dialling in beans was certainly getting easier, and I was now sometimes able to recognise some of the mentioned tasting notes. But everything was just so inconsistent. Some shots would gush, and some would choke. Some espressos would be rich with crema, with others being watery and thin. Some pours started out slow and steady, but then they'd switch to a gushing watery stream half way through. Trying to stop the yield at a specific weight was often hopeless. If I was aiming for a 36g yield, I'd try to stop the machine at 32g, to account for the drips that happen after shutting off the machine. Sometimes that would work, and sometimes I'd get 10-15g of liquid gush through the portafilter into the cup below (even after stopping the machine), completely missing my target.
 
-I did some research on possible causes, which led me to "channeling", where the high pressure forces water through weak spots in the coffee puck. So I tried a few things to better distribute the coffee, including [WDT](https://www.home-barista.com/weiss-distribution-technique.html). This made things worse. I then decided to get a palm tamper/distribution tool, in a bid to improve the consistency. This made things worse too - initially anyway, but more on that later.
+I did some research on possible causes, which led me to "channeling", where the high pressure forces water through weak spots in the coffee puck. So I tried a few things to better distribute the coffee, including [WDT](https://www.home-barista.com/weiss-distribution-technique.html). This didn't help, which surprised me. I then decided to get a palm tamper/distribution tool, in a bid to improve the consistency. This didn't help either - initially anyway, but more on that later.
 
 At this point I was getting some great tasting coffee (especially with milk), but it was hugely inconsistent. I knew that I was doing something wrong, but I couldn't figure out what it was. So I bought a bag of supermarket espresso blend beans (because they were cheaper) to experiment with. A dozen shots later (don't worry, I wasn't drinking it!), I'd managed to start pulling consistent smooth flowing shots. I'd finally stumbled upon what I was doing wrong - distribution and tamping.
 
@@ -124,9 +124,7 @@ Occasionally I'll get more coffee out of the grinder than expected, and sometime
 
 ## Fluffing the ground coffee
 
-On the finer grind settings needed for some beans, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a gentle side-to-side shake to break the clumps up.
-
-Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Also, don't shake the cup too much otherwise the ground coffee will start to compress in the cup.
+On the finer grind settings needed for some beans, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a gentle side-to-side shake to break the clumps up. Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Also, don't shake the cup too much otherwise the ground coffee will start to compress in the cup. Alternatively, use the WDT technique to declump the coffee grounds.
 
 ## Clean and dry the portafilter
 
@@ -149,6 +147,8 @@ I followed the advice on [How to Set Palm Tamper Depth | Breville Barista Expres
 Back to the tamper/distributor combo tool; I initially used the distribution side (on the minimum setting) to smooth out/level the ground coffee, and then tamped to compress the coffee. This hugely improved shot flow/timing/taste consistency.
 
 I then tried just using the distributor side of the tool (inspired by [How To: The Jack Espresso Leveler Setup and Use](https://www.youtube.com/watch?v=4Z5vTi643sc)), and this gives great results too, with one less step. Once I've dialled in a bean, I set the depth of the distributor to the depth of a tamped puck, and then I don't need to tamp any more, because the distributor is compressing the puck for me, which removes another variable in the espresso equation. Of course, if you change the grind size or dose, you may need to adjust the depth of your distribution tool/palm tamper.
+
+I think the distribution tool pushes the coffee grounds towards the edge of the basket, resulting in a better seal than just tamping. When I do see channeling now, there tends to be an obvious tiny hole on the surface of the puck, rather than any visible gaps around the edges.
  
  ## Quick flush
  
