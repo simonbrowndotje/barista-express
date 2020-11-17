@@ -2,10 +2,30 @@
  
 I've always leaned towards the small independent coffee shops rather than the larger chains, appreciating that some coffee is better than others, but never really understanding why. I've heard people talking about the various flavours they could taste in espresso, but I've always thought that "coffee just tasted like coffee". A small coffee shop in Perth, Australia opened my eyes a few years ago by serving the most amazing espresso I'd ever tasted. It was a single origin and, for the first, it didn't just taste of coffee. It was fruity! 
 
-I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a Nespresso machine. The Nespresso machine is very convenient, but I wanted something better, especially as I primarily drink latte. My initial results with the Barista Express were good, but very inconsistent. This is a short guide to my experiences using the Barista Express, and how I achieve good consistent results with the single-wall (non-pressurised) double-shot basket. I initially started with the single-wall single-shot basket because I thought I'd use fewer beans this way, but it turns out the single shot basket is _notoriously_ difficult to work with. So I switched it out for the single-wall double-shot basket.
+I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a Nespresso machine. The Nespresso machine is very convenient, but I wanted something better, especially as I primarily drink latte. My initial results with the Barista Express were good, but very inconsistent. This is a short guide to my experiences using the Barista Express, and how I achieve good consistent results with the single-wall (non-pressurised) double-shot basket.
+
+## Table of contents
+
+- [First steps and inconsistent results](#first-steps-and-inconsistent-results)
+- [Check the water level](#check-the-water-level)
+- [Warm the machine](#warm-the-machine)
+- [Brewing temperature](#brewing-temperature)
+- [Dose](#dose)
+- [Grind size](#grind-size)
+- [Single dosing vs filling the hopper](#single-dosing-vs-filling-the-hopper)
+- [Grinder retention](#grinder-retention)
+- [Fluffing the ground coffee](#fluffing-the-ground-coffee)
+- [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
+- [Quick flush](#quick-flush)
+- [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
+- [Brew ratio and taste](#brew-ratio-and-taste)
+- [Minimising waste](#minimising-waste)
+- [Steaming milk and latte art](#steaming-milk-and-latte-art)
+- [Hot chocolate](#hot-chocolate)
 
 ## tl;dr
 
+- Check the water level.
 - Warm up the machine for at least 10-15 minutes.
 - Weigh and single-dose 17-18g of beans into the grinder.
 - Grind into a small cup.
@@ -17,12 +37,6 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - Quickly flush with the single shot button (just a few seconds), ideally with a cup underneath to pre-heat it.
 - Insert the portafilter and start the shot (a shot time of 25-35 seconds, from pressing the button, is a good starting point).
 - For best results, weigh the output rather than relying on the default shot button timings (a 1:2 ratio is a good starting point; e.g. 18g of coffee in, 36g of espresso out).
-
-Your shot should pour as a thin, slow, smooth stream; dark at first, slowly getting lighter. Like this:
-
-![](espresso-flow.jpg)
-
-Once you understand how to do that, then you can focus on taste.
 
 ## First steps and inconsistent results
 
@@ -48,7 +62,7 @@ This sounds obvious until you forget, and run out of water half way through a sh
 
 It's tempting to skip this step, especially early in the morning, but do wait at least 10-15 minutes to ensure everything is warmed up (including the portafilter, and basket). A warm machine does resolve some of the sourness and consistency problems. If you're in a hurry, push 2-3 single shots through an empty portafilter (no coffee; just the basket) to speed up the process.
 
-## Temperature
+## Brewing temperature
 
 The brewing temperature can also make a difference. A higher temperature can help tame sourness, and a lower temperature can help tame bitterness. Whenever I get a new bean, I will adjust the brewing temperature as follows:
 
@@ -59,6 +73,8 @@ The brewing temperature can also make a difference. A higher temperature can hel
 If in doubt, just use the default temperature and only adjust the temperature if you're having issues with a sourness or bitterness that remains after what looks a perfect shot. See the instruction guide for details of how to change the brewing temperature.
 
 ## Dose
+
+I initially started with the single-wall single-shot basket because I thought I'd use fewer beans this way, but it turns out the single shot basket is _notoriously_ difficult to work with. So I switched it out for the single-wall double-shot basket.
 
 Every coffee is different, but I find that 17-18g is a good starting point for the Barista Express, in the standard single-wall double-shot basket. Whatever dose you choose, be consistent, and be precise. +/-0.5g dose difference between shots _can_ and _does_ make a difference. If you choose a dose of 17.5g, weigh this out every time. It's tedious, but essential for consistency.
 
@@ -144,13 +160,19 @@ The Barista Express has a 7-10 second pre-infusion phase, which wets the coffee 
 
 I start the timer from when I press the button, because it's easier, and I don't have a scale that weighs from the first drop (like some smart scales do). Shots in the 25-35 second range (from button press) generally taste good to me.
 
+Your shot should pour as a thin, slow, smooth stream; dark at first, slowly getting lighter. Like this:
+
+![](espresso-flow.jpg)
+
+Once you understand how to do that, then you can focus on taste.
+
 ## Brew ratio and taste
 
 I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With lighter roasts, I often find a slightly higher ratio helps bring out some of the fruity flavours (e.g. 18g in, 40g out). You'll need to experiment and see what works.
 
-## Possible unpopular opinion
+## Minimising waste
 
-When you're starting out, you're going to waste a lot of beans getting to know the machine, and also when dialling in new beans. I generally drink latte, and although I'll try to chase the tasting notes of a particular bean, I'm not necessarily seeking espresso perfection. Unless the shot is really fast and gushes out (<15 seconds), or really slow and barely drips out (>45 seconds), I'll usually drink it as a latte. Once mixed with steamed milk, any sour or bitter flavours aren't really noticeable. I will make a note to change the grind setting next time I make a shot though. Having said that, I will usually have a quick taste of the espresso, to get a feel how/whether it can be improved next time. But my goal is to also minimise wastage.
+This might be an unpopular opinion but ... when you're starting out, you're going to waste a lot of beans getting to know the machine, and also when dialling in new beans. I generally drink latte, and although I'll try to chase the tasting notes of a particular bean, I'm not necessarily seeking espresso perfection. Unless the shot is really fast and gushes out (<15 seconds), or really slow and barely drips out (>45 seconds), I'll usually drink it as a latte. Once mixed with steamed milk, any sour or bitter flavours aren't really noticeable. I will make a note to change the grind setting next time I make a shot though. Having said that, I will usually have a quick taste of the espresso, to get a feel how/whether it can be improved next time. But my goal is to also minimise wastage.
 
 ## Steaming milk and latte art
 
@@ -180,7 +202,7 @@ I'm no expert in pouring latte art, and don't really have any tips, so I'll leav
 
 ![](latte-art.jpg) 
 
-## Hot chocolate on the Barista Express
+## Hot chocolate
 
 I wanted to figure out how to make hot chocolate with my Barista Express, mostly as an excuse to practice latte art, but it's also great for those cold winter nights. It's surprisingly easy, and I've successfully made delicious hot chocolate with instant hot chocolate, and [Hotel Chocolat's Classic Hot Chocolate](https://www.hotelchocolat.com/uk/classic-drinking-chocolate.html).
 
