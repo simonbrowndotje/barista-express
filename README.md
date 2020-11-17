@@ -15,6 +15,8 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - [Single dosing vs filling the hopper](#single-dosing-vs-filling-the-hopper)
 - [Grinder retention](#grinder-retention)
 - [Fluffing the ground coffee](#fluffing-the-ground-coffee)
+- [Clean and dry the portafilter](#clean-and-dry-the-portafilter)
+- [Transfer the ground coffee](#transfer-the-ground-coffee)
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
 - [Quick flush](#quick-flush)
 - [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
