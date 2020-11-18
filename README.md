@@ -170,7 +170,9 @@ Once you understand how to do that, then you can focus on taste.
 
 ## Brew ratio and taste
 
-I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With lighter roasts, I often find a slightly higher ratio helps bring out some of the fruity flavours (e.g. 18g in, 40g out). You'll need to experiment and see what works.
+I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With lighter roasts, I often find a slightly higher ratio helps bring out some of the fruity flavours (e.g. 18g in, 40g out). You'll need to experiment and see what works. Some useful videos to watch include:
+
+ - [How to Adjust Espresso by Taste - Seven Miles Coffee Roasters](https://www.youtube.com/watch?v=JvvfDgDJQEk)
 
 ## Minimising waste
 
