@@ -148,13 +148,13 @@ I followed the advice on [How to Set Palm Tamper Depth | Breville Barista Expres
 
 Back to the tamper/distributor combo tool; I initially used the distribution side (on the minimum setting) to smooth out/level the ground coffee, and then tamped to compress the coffee. This hugely improved shot flow/timing/taste consistency.
 
-I then tried just using the distributor side of the tool (inspired by [How To: The Jack Espresso Leveler Setup and Use](https://www.youtube.com/watch?v=4Z5vTi643sc)), and this gives great results too, with one less step. Once I've dialled in a bean, I set the depth of the distributor to the depth of a tamped puck, and then I don't need to tamp any more, because the distributor is compressing the puck for me, which removes another variable in the espresso equation. Of course, if you change the grind size or dose, you may need to adjust the depth of your distribution tool/palm tamper. Also bear in mind that a distribution tool/palm tamper has a maximum depth that it can be set to, and that maximum depth might not provide enough compression for smaller doses, especially at finer grind settings.
+I then tried just using the distributor side of the tool (inspired by [How To: The Jack Espresso Leveler Setup and Use](https://www.youtube.com/watch?v=4Z5vTi643sc)), and this gives great results too, with one less step. Once I've dialled in a bean, I set the depth of the distributor to the depth of a tamped puck, and then I don't need to tamp any more, because the distributor is compressing the puck for me, which removes another variable in the espresso equation. Of course, if you change the grind size or dose, you may need to adjust the depth of your distribution tool/palm tamper. Also bear in mind that a distribution tool/palm tamper has a maximum depth that it can be set to, and that maximum depth might not provide enough compression for smaller doses, especially at finer grind settings. On a related note, there's also a limit to how far you can insert any tamper or distribution tool into the basket given the slight curvature of the basket wall, so make sure you don't under fill your basket.
 
-I think the distribution tool pushes the coffee grounds towards the edge of the basket, resulting in a better seal than just tamping. It doesn't elimate channeling (so you might need to level the grounds or do WDT beforehand), but when I do see channeling now, there tends to be an obvious tiny hole on the surface of the puck, rather than any visible gaps around the edges.
+I think the distribution tool pushes the coffee grounds towards the edge of the basket, resulting in a better seal than just tamping. It doesn't elimate channeling (so you might need to tap/level the grounds or do WDT beforehand), but when I do see channeling now, there tends to be an obvious tiny hole on the surface of the puck, rather than any visible gaps around the edges.
  
  ## Quick flush
  
- Before making the espresso shot, I press the single shot button to flush the group head, to help ensure the water temperature is consistent. You can use this flush to pre-heat your cup.
+Before making the espresso shot, I press the single shot button to flush the group head, to help ensure the water temperature is consistent. You can use this flush to pre-heat your cup.
  
 ## Measuring time - button press or first drop of espresso?
 
