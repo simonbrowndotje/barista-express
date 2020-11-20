@@ -20,6 +20,7 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
 - [Quick flush](#quick-flush)
 - [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
+- [Pressure gauge](#pressure-gauge)
 - [Brew ratio and taste](#brew-ratio-and-taste)
 - [Minimising waste](#minimising-waste)
 - [Steaming milk and latte art](#steaming-milk-and-latte-art)
@@ -39,6 +40,7 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - Quickly flush with the single shot button (just a few seconds), ideally with a cup underneath to pre-heat it.
 - Insert the portafilter and start the shot (a shot time of 25-35 seconds, from pressing the button, is a good starting point).
 - For best results, weigh the output rather than relying on the default shot button timings (a 1:2 ratio is a good starting point; e.g. 18g of coffee in, 36g of espresso out).
+- Don't worry about too much about the pressure gauge. 
 
 ## First steps and inconsistent results
 
@@ -167,6 +169,10 @@ Your shot should pour as a thin, slow, smooth stream; dark at first, slowly gett
 ![](espresso-flow.jpg)
 
 Once you understand how to do that, then you can focus on taste.
+
+## Pressure gauge
+
+A quick note about the pressure gauge. Having watched many videos on YouTube, I don't think the pressure gauge is very consistent between machines. All of my best shots are made with the pressure gauge at the very top end, and even over, the grey "espresso range". The pressure gauge is useful as a general guide, but I don't really pay much attention to it any more. Watching the flow and timing of the shot is much more important.
 
 ## Brew ratio and taste
 
