@@ -176,8 +176,9 @@ A quick note about the pressure gauge. Having watched many videos on YouTube, I 
 
 ## Brew ratio and taste
 
-I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With lighter roasts, I often find a slightly higher ratio helps bring out some of the fruity flavours (e.g. 18g in, 40g out). You'll need to experiment and see what works. Some useful videos to watch include:
+I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With lighter roasts, I often find a slightly higher ratio helps bring out some of the fruity flavours (e.g. 18g in, 40g out). You'll need to experiment and see what works. Some useful articles to read/videos to watch include:
 
+ - [How To Brew Dark, Medium and Light Roast Coffees](https://clivecoffee.com/blogs/learn/how-to-brew-dark-medium-and-light-roast-coffees)
  - [How to Adjust Espresso by Taste - Seven Miles Coffee Roasters](https://www.youtube.com/watch?v=JvvfDgDJQEk)
 
 ## Minimising waste
