@@ -21,6 +21,8 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - [Quick flush](#quick-flush)
 - [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
 - [Pressure gauge](#pressure-gauge)
+- [Shot too fast](#shot-too-fast)
+- [Shot too slow](#shot-too-slow)
 - [Brew ratio and taste](#brew-ratio-and-taste)
 - [Minimising waste](#minimising-waste)
 - [Steaming milk and latte art](#steaming-milk-and-latte-art)
@@ -173,6 +175,24 @@ Once you understand how to do that, then you can focus on taste.
 ## Pressure gauge
 
 A quick note about the pressure gauge. Having watched many videos on YouTube, I don't think the pressure gauge is very consistent between machines. All of my best shots are made with the pressure gauge at the very top end, and even over, the grey "espresso range". The pressure gauge is useful as a general guide, but I don't really pay much attention to it any more. Watching the flow and timing of the shot is much more important.
+
+## Shot too fast
+
+If the shot is too fast:
+
+- Make the grind size finer.
+- Increase the dose.
+
+It's also worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Check the distribution and tamping of your coffee in the basket. 
+
+## Shot too slow
+
+If the shot is too slow:
+
+- Make the grind size coarser.
+- Reduce the dose.
+
+If no espresso is coming out at all, the grind size is probably too fine. Also do check the holes in the filter basket are not clogged, as this will also choke the machine. 
 
 ## Brew ratio and taste
 
