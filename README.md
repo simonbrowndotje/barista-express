@@ -174,6 +174,8 @@ Your shot should pour as a thin, slow, smooth stream; dark at first, slowly gett
 
 Once you understand how to do that, then you can focus on taste.
 
+![](espresso.jpg)
+
 ## Pressure gauge
 
 A quick note about the pressure gauge. Having watched many videos on YouTube, I don't think the pressure gauge is very consistent between machines. All of my best shots are made with the pressure gauge at the very top end, and even over, the grey "espresso range". The pressure gauge is useful as a general guide, but I don't really pay much attention to it any more. Watching the flow and timing of the shot is much more important.
