@@ -4,6 +4,12 @@ I've always leaned towards the small independent coffee shops rather than the la
 
 I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a Nespresso machine. The Nespresso machine is very convenient, but I wanted something better, especially as I primarily drink latte. My initial results with the Barista Express were good, but very inconsistent. This is a short guide to my experiences using the Barista Express, and how I achieve good consistent results with the single-wall (non-pressurised) double-shot basket.
 
+This guide should also help to answer the typical question I see on [Reddit](https://www.reddit.com/r/espresso/) too:
+
+> I've just bought a Barista Express, my shots are too fast even though I'm at the finest grinder setting and/or have changed the internal burr ... what am I doing wrong?
+
+As you'll see shortly, this was exactly my first experience too. If you don't want to read on, the basic answer is (1) distribute your ground coffee evenly in the basket, and (2) tamp flat and *hard*.
+
 ## Table of contents
 
 - [First steps and inconsistent results](#first-steps-and-inconsistent-results)
@@ -38,7 +44,7 @@ I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a
 - Gently shake/stir the ground coffee to get it "fluffy" and remove any large clumps.
 - Clean and dry the portafilter basket.
 - Tip the ground coffee into the portafilter, and level/smooth with a finger, making sure to fill any gaps, especially around the basket edge.
-- Tamp (and/or use a distribution tool).
+- Tamp hard (and/or use a distribution tool).
 - Quickly flush with the single shot button (just a few seconds), ideally with a cup underneath to pre-heat it.
 - Insert the portafilter and start the shot (a shot time of 25-35 seconds, from pressing the button, is a good starting point).
 - For best results, weigh the output rather than relying on the default shot button timings (a 1:2 ratio is a good starting point; e.g. 18g of coffee in, 36g of espresso out).
@@ -148,7 +154,7 @@ So I decided to get a palm tamper, specifically the [53mm Tamper & Distributor C
 
 I followed the advice on [How to Set Palm Tamper Depth | Breville Barista Express - Lifestyle Lab](https://www.youtube.com/watch?v=LZBbDMYPDGI), which basically sets the tamper to the same depth as the Razor tool that ships with the Barista Express. This didn't work at all for me.
 
-[How Hard Should You Tamp?](https://www.baristahustle.com/blog/how-hard-should-you-tamp/) is a great article on tamping, and it made me realise that although you can't "tamp too hard", there is a minimum tamp that you need to compress the ground coffee. With some beans and doses, tamping to the level suggested by the Razor tool isn't enough. The Razor tool depth is really the _maximum_ level of coffee in the basket. The thing that really fixed my lack of consistency and channeling was tamping harder - I wasn't compressing the coffee enough, and the shots were channelling, which ultimately led to the sourness.
+[How Hard Should You Tamp?](https://www.baristahustle.com/blog/how-hard-should-you-tamp/) is a great article on tamping, and it made me realise that although you can't "tamp too hard", there is a minimum tamp that you need to compress the ground coffee. With some beans and doses, tamping to the level suggested by the Razor tool isn't enough. The Razor tool depth is really the _maximum_ level of coffee in the basket. The thing that really fixed my lack of consistency and channeling was tamping harder - I wasn't compressing the coffee enough, and the shots were channelling, which ultimately led to the sourness. A good starting point is to just tamp *hard*, and don't be tempted to use tamping pressure to influence the extraction time.
 
 Back to the tamper/distributor combo tool; I initially used the distribution side (on the minimum setting) to smooth out/level the ground coffee, and then tamped to compress the coffee. I think the distribution tool helps push the coffee grounds towards the edge of the basket, resulting in a better seal than just tamping. It also provides a much easier (and flat) starting point for tamping. This distribution/tamping combination hugely improved shot flow/timing/taste consistency.
 
