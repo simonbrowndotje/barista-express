@@ -31,6 +31,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Shot too slow](#shot-too-slow)
 - [Brew ratio and taste](#brew-ratio-and-taste)
 - [Minimising waste](#minimising-waste)
+- [Storing beans](#storing-beans)
 - [Steaming milk and latte art](#steaming-milk-and-latte-art)
 - [Hot chocolate](#hot-chocolate)
 
@@ -38,7 +39,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 
 - Check the water level.
 - Warm up the machine for at least 10-15 minutes.
-- Weigh and single-dose 17-18g of beans into the grinder.
+- Weigh and single-dose 17-19g of beans into the grinder.
 - Grind into a small cup.
 - Weigh the ground coffee (add or remove to match your desired dose).
 - Gently shake/stir the ground coffee to get it "fluffy" and remove any large clumps.
@@ -48,7 +49,8 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - Quickly flush with the single shot button (just a few seconds), ideally with a cup underneath to pre-heat it.
 - Insert the portafilter and start the shot (a shot time of 25-35 seconds, from pressing the button, is a good starting point).
 - For best results, weigh the output rather than relying on the default shot button timings (a 1:2 ratio is a good starting point; e.g. 18g of coffee in, 36g of espresso out).
-- Don't worry about too much about the pressure gauge. 
+- Don't worry about too much about the pressure gauge.
+- Keep your beans fresh by storing them properly (away from moisture, with as little air as possible).
 
 ## First steps and inconsistent results
 
@@ -88,7 +90,7 @@ If in doubt, just use the default temperature and only adjust the temperature if
 
 I initially started with the single-wall single-shot basket because I thought I'd use fewer beans this way, but it turns out the single shot basket is _notoriously_ difficult to work with. So I switched it out for the single-wall double-shot basket.
 
-Every coffee is different, but I find that 17-18g is a good starting point for the Barista Express, in the standard single-wall double-shot basket. Whatever dose you choose, be consistent, and be precise. +/-0.5g dose difference between shots _can_ and _does_ make a difference. If you choose a dose of 17.5g, weigh this out every time. It's tedious, but essential for consistency.
+Every coffee is different, but I find that 18g (+/- 1g) is a good starting point for the Barista Express, in the standard single-wall double-shot basket. Whatever dose you choose, be consistent, and be precise. +/-0.5g dose difference between shots _can_ and _does_ make a difference. If you choose a dose of 17.5g, weigh this out every time. It's tedious, but essential for consistency.
 
 ## Grind size
 
@@ -214,6 +216,10 @@ I start with a 1:2 ratio (e.g. 18g in, 36g out) and adjust from there. With ligh
 ## Minimising waste
 
 This might be an unpopular opinion but ... when you're starting out, you're going to waste a lot of beans getting to know the machine, and also when dialling in new beans. I generally drink latte, and although I'll try to chase the tasting notes of a particular bean, I'm not necessarily seeking espresso perfection. Unless the shot is really fast and gushes out (<15 seconds), or really slow and barely drips out (>45 seconds), I'll usually drink it as a latte. Once mixed with steamed milk, any sour or bitter flavours aren't really noticeable. I will make a note to change the grind setting next time I make a shot though. Having said that, I will usually have a quick taste of the espresso, to get a feel how/whether it can be improved next time. But my goal is to also minimise wastage.
+
+## Storing beans
+
+I originally used a large airtight mason jar for storing beans, and that did work *when* the jar was kept relatively full. The beans did age quickly once I had a large amount of air in there though. I bought two 250g bags of the same beans, opened the first and stored it in the mason jar, with the beans only filling about one third of the jar's capacity. On day one, the espresso shots were fantastic, with lots of crema and identifable fruity tasting notes. On day two, everything changed. I had to grind two steps finer to slow the shots down, and the resulting shots had much less crema and flavour. Sufficient for milk-based drinks, but definitely not the same. Once those beans were finished, I opened the second bag, reset the grinder to the original coarser setting, and everything was good once again. I stored these new beans in a resealable bag, with the air pushed out. Shots for the rest of the bag were consistently good, with no grind size changes required. All of this made me realise that having an airtight jar is meaningless if there's more air than beans. I've now ordered an [Airscape canister](https://planetarydesign.com/shop/airscape-kitchen-canisters/) to store my beans.
 
 ## Steaming milk and latte art
 
