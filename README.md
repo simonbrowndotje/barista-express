@@ -26,6 +26,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
 - [Quick flush](#quick-flush)
 - [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
+- [Stopping the shot](#stopping-the-shot)
 - [Pressure gauge](#pressure-gauge)
 - [Shot too fast](#shot-too-fast)
 - [Shot too slow](#shot-too-slow)
@@ -168,7 +169,7 @@ The distribution tool doesn't elimate channeling altogether (so you might need t
  
  ## Quick flush
  
-Before making the espresso shot, I press the single shot button to flush the group head, to help ensure the water temperature is consistent. You can use this flush to pre-heat your cup.
+Before making the espresso shot, I press the single shot button to flush the group head, to help ensure the water temperature is consistent. You can use this water to pre-heat your cup.
  
 ## Measuring time - button press or first drop of espresso?
 
@@ -181,6 +182,10 @@ Your shot should pour as a thin, slow, smooth stream; dark at first, slowly gett
 ![](espresso-flow.jpg)
 
 Once you understand how to do that, then you can focus on taste.
+
+## Stopping the shot
+
+The double-shot button is designed to deliver 2oz (by volume). Although you can re-program this, it's just easier to press the double-shot button (again) to stop the shot. This does, of course, mean that you will need to weight your shot while it's pouring, by placing your cup on some scales. If you're aiming for 40g, you'll need to press the button to stop the shot when your scales indicate ~37g, to allow for the remaining drips after the pump stops.
 
 ![](espresso.jpg)
 
