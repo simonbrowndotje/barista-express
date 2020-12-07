@@ -8,7 +8,7 @@ This guide should also help to answer the typical question I see on [Reddit](htt
 
 > I've just bought a Barista Express, my shots are too fast even though I'm at the finest grinder setting and/or have changed the internal burr ... what am I doing wrong?
 
-As you'll see shortly, this was exactly my first experience too. If you don't want to read on, the basic answer is (1) distribute your ground coffee evenly in the basket, and (2) tamp flat and *hard*.
+As you'll see shortly, this was exactly my first experience too. If you don't want to read on, the basic answer is (1) distribute your ground coffee evenly in the basket, and (2) tamp flat and *hard*. Also, and counterintuively, be prepared to make the grind size *coarser* to fix fast shots.
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Clean and dry the portafilter](#clean-and-dry-the-portafilter)
 - [Transfer the ground coffee](#transfer-the-ground-coffee)
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
-- [Quick flush](#quick-flush)
+- [Quick flush and wipe](#quick-flush-and-wipe)
 - [Measuring time - button press or first drop of espresso?](#measuring-time---button-press-or-first-drop-of-espresso)
 - [Stopping the shot](#stopping-the-shot)
 - [Pressure gauge](#pressure-gauge)
@@ -167,9 +167,9 @@ Of course, if you change the grind size or dose, you may need to adjust the dept
 
 The distribution tool doesn't elimate channeling altogether (so you might need to tap/level the grounds or do WDT beforehand), but when I do see channeling now, there tends to be an obvious tiny hole on the surface of the puck, rather than any visible gaps around the edges.
  
- ## Quick flush
+ ## Quick flush and wipe
  
-Before making the espresso shot, I press the single shot button to flush the group head, to help ensure the water temperature is consistent. You can use this water to pre-heat your cup.
+Before making the espresso shot, I press the single shot button to flush the group head for a couple of seconds, to help ensure the water temperature is consistent. You can use this water to pre-heat your cup. After this flush, give the group head a quick wipe to remove any excess water/coffee.
  
 ## Measuring time - button press or first drop of espresso?
 
@@ -200,7 +200,9 @@ If the shot is too fast:
 - Make the grind size finer.
 - Increase the dose.
 
-It's also worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Check the distribution and tamping of your coffee in the basket. 
+But ... if you're new to espresso, it's very possible that the grind size is too fine, which is causing channeling, and an overall fast extraction time. In this case, making the grind size even finder will exaggerrate the problem and, counterintuitively, the solution is to make the grind coaser.
+
+It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Check the distribution and tamping of your coffee in the basket too. 
 
 ## Shot too slow
 
