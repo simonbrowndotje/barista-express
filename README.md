@@ -20,6 +20,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Grind size](#grind-size)
 - [Single dosing vs filling the hopper](#single-dosing-vs-filling-the-hopper)
 - [Grinder retention](#grinder-retention)
+- [Grinding into the portafilter vs a dosing cup](#grinding-into-the-portafilter-vs-a-dosing-cup)
 - [Clean and dry the portafilter](#clean-and-dry-the-portafilter)
 - [Transfer the ground coffee](#transfer-the-ground-coffee)
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
