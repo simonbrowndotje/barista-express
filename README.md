@@ -20,7 +20,6 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Grind size](#grind-size)
 - [Single dosing vs filling the hopper](#single-dosing-vs-filling-the-hopper)
 - [Grinder retention](#grinder-retention)
-- [Fluffing the ground coffee](#fluffing-the-ground-coffee)
 - [Clean and dry the portafilter](#clean-and-dry-the-portafilter)
 - [Transfer the ground coffee](#transfer-the-ground-coffee)
 - [Tamping pressure (and the Razor tool)](#tamping-pressure-and-the-razor-tool)
@@ -110,36 +109,46 @@ You may find this affects the taste slightly (because you're changing the extrac
 
 ## Single dosing vs filling the hopper
 
-I've tried both, and now single dose into a cup. Filling the hopper and grinding into the portafilter is convenient, but:
+I've tried both, and now single dose. Filling the hopper with beans is convenient, but:
 
- - it's messy (coffee tends to overflow from the portafilter)
- - it's uneven (coffee tends to form a mound in the centre of the basket)
  - the dose control ("Grind Amount") dial is time-based, which leads to inconsistent doses (in terms of coffee weight)
- - the fineness of the grind changes depending on how full/empty the grinder is (I dialled in a bean with a full hopper, and needed to change the grind size as the hopper emptied)
+ - the fineness of the grind changes depending on how full/empty the grinder is (I dialled in a bean with a full hopper, and needed to change the grind size as the hopper emptied ... aging will also have contributed to these changes)
+ - although the hopper is "air tight", it still contains air, which will allow the beans to age more quickly that if you keep them in an air tight container (with the air pushed out), or in a vacuum
 
-Single dosing into a cup is less convenient, but:
+Single dosing is less convenient, but:
 
-- it's less messy
-- it's easier to distribute the coffee more evenly
-- it results in less waste of beans (my day-to-day wastage of coffee is practically zero)
+- it results in less waste of beans (my day-to-day coffee waste is zero)
 - you get a more consistent dose (you can weigh the beans in, and weigh the grounds out)
 - you get a more consistent grind size from shot to shot
 
-To single dose, set the "Grind Amount" dial to maximum, and the "Filter Size" to "Double". Put your weighed dose of beans into the grinder, and press the button underneath the grinder (where you'd usually put the portafilter), with your cup underneath. The grinder sound will change to a high pitched noise when it's empty, and you can stop the grinder by pressing the "Filter Size" button.
-
-It's worth noting that beans age and dry out; even when stored in an airtight container, and even over the course of a week. Be prepared to change the grind size and dose to account for this if you start to see your shots becoming less consistent.
+To single dose, set the "Grind Amount" dial to maximum, and the "Filter Size" to "Double". Put your weighed dose of beans into the grinder, and press the button underneath the grinder (where you'd usually put the portafilter), with your cup underneath. You don't need to hold this button in. The grinder sound will change to a high pitched noise when it's empty, and you can stop the grinder by pressing the "Filter Size" button.
 
 ## Grinder retention
 
-The grinder on the Barista Express does not have zero-retention. In other words, there is always some ground coffee in the grinder. If you take out the inner burr, you'll see this. I've not measured it, but I suspect there's a few grams of ground coffee in the gaps between the top and bottom of the grinder. For this reason, especially when you're dialling in a new bean, you'll need to purge a few grams each time you change the grinder setting, to discard the coffee ground at the previous setting. The same is true when you switch beans.
+The grinder on the Barista Express does not have zero-retention. In other words, there is always some ground coffee in the grinder. If you take out the inner burr, you'll see this. I've not measured it, but I suspect there's a few grams of ground coffee in the gaps between the top and bottom of the grinder. For this reason, especially when you're dialling in a new bean, you'll need to purge a few grams each time you change the grinder setting, to discard the coffee ground at the previous setting. The same is true when you switch beans. In other words, grind 5-10g of beans, and throw away the grounds.
 
 After dialling in a bean, during daily use, if I put 17.5g of beans into the grinder, I typically get 17.5g of ground coffee out ... +/- 0.2g. During the grinding process, you're pushing out some of the ground coffee stuck in the grinder, and replacing it with fresh coffee. In other words, out of that 17.5g of fresh beans, you might be getting 15g of freshly ground coffee, plus 2.5g of coffee from the previous grind, with 2.5g of freshly ground coffee now being stuck in the gaps. I use my machine every day, and don't notice any effect on taste of this, so I wouldn't worry about it too much. This might be different if you only use your machine once a week though. 
 
 Occasionally I'll get more coffee out of the grinder than expected, and sometimes less. It's easy to fix this by removing some grounds, or by grinding a few more beans into the cup. If you want consistent shots, I definitely recommend weighing the beans in, and the ground coffee out.
 
-## Fluffing the ground coffee
+## Grinding into the portafilter vs a dosing cup
 
-On the finer grind settings needed for some beans, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a gentle side-to-side shake to break the clumps up. Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Also, don't shake the cup too much otherwise the ground coffee will start to compress in the cup. Alternatively, use the WDT technique to declump the coffee grounds.
+Grinding straight into the portafilter is convenient, but:
+
+ - it's messy (coffee tends to overflow from the portafilter)
+ - it's uneven (coffee tends to form a mound in the centre of the basket)
+
+Grinding into a dosing cup is less convenient, but:
+
+- it's less messy
+- it's easier to distribute the coffee more evenly (see below)
+- you get a more consistent dose (you can weigh the beans in, and weigh the grounds out)
+
+The built-in grinder doesn't always give you fluffy ground coffee, so needs a little help. I initially ground straight into the portafilter, but that limits the options you have for fluffing up the ground coffee unless you have a dosing ring or funnel.
+
+Certainly on the finer grind settings, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a gentle side-to-side shake to break the clumps up. You may need to rotate the cup 90 degrees, and do the same again. Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Also, don't shake the cup too much otherwise the ground coffee will start to compress in the cup. Alternatively, use the WDT technique to declump the coffee grounds.
+
+> A quick note: When I started using a cup to grind into, I would give the cup a gentle shake to fluff up the grounds, and often the shots would choke. My initial thoughts were, "oh, shaking the cup causes the shot to choke, so I should shake it more gently". Actually, I was interpreting the results in the wrong way - shaking the cup was eliminating the clumps that form when grinding at finer settings, and now the machine was choking on the more consistent grounds, rather than channeling from finding weak paths through the clumpier grounds. Grinding into a cup was what transformed my espresso experience for the better.
 
 ## Clean and dry the portafilter
 
@@ -169,7 +178,7 @@ The distribution tool doesn't elimate channeling altogether (so you might need t
  
  ## Quick flush and wipe
  
-Before making the espresso shot, I press the single shot button to flush the group head for a couple of seconds, to help ensure the water temperature is consistent. You can use this water to pre-heat your cup. After this flush, give the group head a quick wipe to remove any excess water/coffee.
+Before making the espresso shot, I press the single shot button to flush the group head for a couple of seconds, to help ensure the water temperature is consistent. You can use this water to pre-heat your cup. After this flush, I give the group head a quick wipe to remove any excess water/coffee.
  
 ## Measuring time - button press or first drop of espresso?
 
