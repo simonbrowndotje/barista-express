@@ -251,14 +251,16 @@ Steaming milk and latte art is definitely something that needs to be practiced. 
 The steam wand on the Barista Express has less power than many other machines, which I think is a good thing, because it gives you enough time to think about and see what's happening. With "whole milk" straight from the fridge, the basic steps are:
 
  - Point the steam wand over the drip tray (no jug), and turn it on.
- - Wait until you hear the pump kick in, and a consistent steam of stream is produced (typically 10-20 seconds).
+ - Wait until you hear the pump kick in, and a consistent steam of stream is produced (typically 10-15 seconds).
  - Turn off the steam wand, and insert it into the jug, with the wand tip underneath the surface of the milk.
  - Turn the steam wand back on, and steam your milk as they show in the tutorials. 🙂
  - Clean and purge the wand before starting your latte art pour.
  
-I usually introduce air until I can feel the milk jug is just starting to become warmer than my hand (10-20 seconds, depending on jug size), and then quickly switch to incorporating the air by creating a vortex until the jug is too hot to touch for more than a couple of seconds. If your jug has a thermometer sticker, use that and aim for 60-65C. From the initial positioning, small vertical changes of the wand into the milk are all you need (you'll see this in the tutorials), and I aim to keep the process as quiet/controlled as possible.
+I usually introduce air until I can feel the milk jug is just starting to become just ever so slightly warmer than my hand, perhaps just before that, (10-20 seconds, depending on jug size), and then quickly switch to incorporating the air by creating a vortex until the jug is too hot to touch for more than a couple of seconds. If your jug has a thermometer sticker, use that and aim for 60-65C.
 
-The result you're aiming for is a glossy/shiny micro-foam, where you can't see visible bubbles on the surface of the milk. I was initially adding too much air, and over-stretching the milk. You might find that you don't need as much air as you think you do too.
+The result you're aiming for is a glossy/shiny micro-foam, where you can't see visible bubbles on the surface of the milk. From the initial positioning of the wand tip underneath the milk, small vertical changes of the wand into the milk are all you need (you'll see this in the tutorials), and I aim to keep the process as quiet/controlled as possible. 
+
+I was initially adding too much air, and over-stretching the milk - and you might also find that you don't need as much air as you think you do too. Knowing when to stop adding air is the hardest part of steaming milk. As I said above, I usually stop adding air when the temperature of the jug is about the same temperature as my hand. If you can avoid adding large bubbles early on in the process, you can actually see a subtle visible change to the surface of the milk, and the way it moves. Initially the milk will spin around the jug like a liquid quite freely. As you introduce air though, this changes and the surface becomes thicker with larger "waves". It's very subtle, and you won't notice it as first, but that's my key to stop adding air.
 
 ![](micro-foam.jpg)
 
