@@ -2,7 +2,7 @@
  
 I've always leaned towards the small independent coffee shops rather than the larger chains, appreciating that some coffee is better than others, but never really understanding why. I've heard people talking about the various flavours they could taste in espresso, but I've always thought that "coffee just tasted like coffee". A small coffee shop in Perth, Australia opened my eyes a few years ago by serving the most amazing espresso I'd ever tasted. It was a single origin and, for the first, it didn't just taste of coffee. It was fruity! 
 
-I purchased a Sage/Breville Barista Express ~8 weeks ago, as a replacement for a Nespresso machine. The Nespresso machine is very convenient, but I wanted something better, especially as I primarily drink latte. My initial results with the Barista Express were good, but very inconsistent. This is a short guide to my experiences using the Barista Express, and how I achieve good consistent results with the single-wall (non-pressurised) double-shot basket.
+I purchased a Sage/Breville Barista Express in September 2020, as a replacement for a Nespresso machine. The Nespresso machine is very convenient, but I wanted something better, especially as I primarily drink latte. My initial results with the Barista Express were good, but very inconsistent. This is a short guide to my experiences using the Barista Express, and how I achieve good consistent results with the single-wall (non-pressurised) double-shot basket.
 
 This guide should also help to answer the typical question I see on [Reddit](https://www.reddit.com/r/espresso/) too:
 
@@ -65,7 +65,12 @@ I'd read that light-medium roasted beans are harder to dial in, so I switched be
 
 I did some research on possible causes, which led me to "channeling", where the high pressure forces water through weak spots in the coffee puck. So I tried a few things to better distribute the coffee, including [WDT](https://www.home-barista.com/weiss-distribution-technique.html). This didn't help, which surprised me. I then decided to get a palm tamper/distribution tool, in a bid to improve the consistency. This didn't help either - initially anyway, but more on that later.
 
-At this point I was getting some great tasting coffee (especially with milk), but it was hugely inconsistent. I knew that I was doing something wrong, but I couldn't figure out what it was. So I bought a bag of supermarket espresso blend beans (because they were cheaper) to experiment with. A dozen shots later (don't worry, I wasn't drinking it!), I'd managed to start pulling consistent smooth flowing shots. I'd finally stumbled upon what I was doing wrong - distribution and tamping.
+At this point I was getting some great tasting coffee (especially with milk), but it was hugely inconsistent. Looking back, my resulting shots were very different to what that are now:
+
+- Then: espresso body was slightly watery; crema would be thin or not cover the entire shot, and dissipate quickly.
+- Now: body is much richer and darker; espresso pours like Guinness (a slow separation of liquid and crema into distinct layers), crema is thick and lasts much longer.
+
+I knew that I was doing something wrong, but I couldn't figure out what it was. So I bought a bag of supermarket espresso blend beans (because they were cheaper) to experiment with. A dozen shots later (don't worry, I wasn't drinking it!), I'd managed to start pulling consistent smooth flowing shots. I'd finally stumbled upon what I was doing wrong - distribution and tamping.
 
 So let's step back, what steps are required to get consistent espresso shots?
 
@@ -210,9 +215,9 @@ If the shot is too fast:
 - Make the grind size finer.
 - Increase the dose.
 
-But ... if you're new to espresso, it's very possible that the grind size is too fine, which is causing channeling, and an overall fast extraction time. In this case, making the grind size even finder will exaggerrate the problem and, counterintuitively, the solution is to make the grind coaser.
+But ... if you're new to espresso, it's very possible that the grind size is too fine, which is causing channeling, and an overall fast extraction time. In this case, making the grind size even finer will exaggerrate the problem and, counterintuitively, the solution is to make the grind coaser.
 
-It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Check the distribution and tamping of your coffee in the basket too. 
+It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Another sign of grinding too fine is high pressure during the initial pre-infusion. Check the distribution and tamping of your coffee in the basket too. 
 
 ## Shot too slow
 
