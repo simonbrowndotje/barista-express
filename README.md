@@ -8,7 +8,11 @@ This guide should also help to answer the typical question I see on [Reddit](htt
 
 > I've just bought a Barista Express, my shots are too fast even though I'm at the finest grinder setting and/or have changed the internal burr ... what am I doing wrong?
 
-As you'll see shortly, this was exactly my first experience too. If you don't want to read on, the basic answer is (1) distribute your ground coffee evenly in the basket, and (2) tamp flat and *hard*. Also, and counterintuively, be prepared to make the grind size *coarser* to fix fast shots.
+As you'll see shortly, this was exactly my first experience too. If you don't want to read on, the basic answer is:
+
+1. Grind into a cup, and give it a good shake before tipping the coffee into the basket.
+2. Distribute the grounds as evenly as you can (a distribution tool helps).
+3. Tamp flat and *hard*.
 
 ## Table of contents
 
@@ -227,7 +231,7 @@ If the shot is too fast:
 
 But ... if you're new to espresso, it's very possible that the grind size is too fine, which is causing channeling, and an overall fast extraction time. In this case, making the grind size even finer will exaggerrate the problem and, counterintuitively, the solution is to make the grind coaser.
 
-It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Another sign of grinding too fine is high pressure during the initial pre-infusion. Check the distribution and tamping of your coffee in the basket too.
+It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Another sign of grinding too fine is high pressure during the initial pre-infusion, or the pressure gauge hitting the end of the scale. Check the distribution and tamping of your coffee in the basket too.
 
 ## Shot too slow
 
