@@ -1,4 +1,4 @@
- # A beginner's guide to the Sage/Breville Barista Express
+# A beginner's guide to the Sage/Breville Barista Express
  
 I've always leaned towards the small independent coffee shops rather than the larger chains, appreciating that some coffee is better than others, but never really understanding why. I've heard people talking about the various flavours they could taste in espresso, but I've always thought that "coffee just tasted like coffee". A small coffee shop in Perth, Australia opened my eyes a few years ago by serving the most amazing espresso I'd ever tasted. It was a single origin and, for the first, it didn't just taste of coffee. It was fruity! 
 
@@ -307,8 +307,9 @@ The consistency of hot chocolate is slightly thicker than espresso, which does m
 
 This is a record of the beans I've tried. Although you likely won't have the same beans/batch, this might provide a starting point for something you're trying to dial in.
 
-| Bean | Roast | Inner Burr | Grinder Setting | Temperature | Dose | Yield | Time | Notes |
-| --- | ---| ---| ---| ---| ---| ---| ---| ---| --- |
+
+| Bean | Roast | Inner Burr | Grinder Setting | Temperature | Dose  Yield | Time | Notes |
+| ---- | ----- | ---------- | ----------------| ------------| ---- | ---- | ---- | ----- |
 | [Rwanda Kinini Autumn Harvest Natural](https://cooper.co.je/collections/light-roasted/products/rwanda-kinini-autumn-harvest-natural) | Light | 6 | 3 | +2C | 17g | 40g | 35s |  Lemon initially, milk chocolate after taste that kicks in after a second |
 | [Nicaragua Jinotegal](https://cooper.co.je/collections/medium-roasted/products/nicaragua-santa-maria) | Medium | 6 | 7 | - | 18g | 36g | 31s | Subtle milk chocolate |
 | [Sumatra Mandheling](https://cooper.co.je/collections/dark-roasted/products/sumatra-mandheling) | Dark | 6 | 6 | -2C | 18g | 36g | 29s |  Hints of caramel/toffee with a split double shot into an 8oz latte |
