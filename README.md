@@ -234,7 +234,7 @@ But ... if you're new to espresso, it's very possible that the grind size is too
 
 It's worth carefully watching your shot before setting the grind size finer. If the shot starts out well (a slow smooth flow), and then gushes to finish fast, the shot might be running fast overall (from a timing perspective) because the puck is channeling. A grind that is too fine and not tamped properly will also cause channeling - the coffee initially creates a lot of resistance and you might not see any flow for a while, but then the high pressure water breaks through the weak spots. [I had this problem a lot at first](#first-steps-and-inconsistent-results). Another sign of grinding too fine is high pressure during the initial pre-infusion, or the pressure gauge hitting the end of the scale. Check the distribution and tamping of your coffee in the basket too.
 
-## Shot too slow
+## Shot too slow
 
 If the shot is too slow:
 
@@ -307,9 +307,8 @@ The consistency of hot chocolate is slightly thicker than espresso, which does m
 
 This is a record of the beans I've tried. Although you likely won't have the same beans/batch, this might provide a starting point for something you're trying to dial in.
 
-
-| Bean | Roast | Inner Burr | Grinder Setting | Temperature | Dose  Yield | Time | Notes |
-| ---- | ----- | ---------- | ----------------| ------------| ---- | ---- | ---- | ----- |
+| Bean | Roast | Inner Burr | Grinder Setting | Temperature | Dose | Yield | Time | Notes |
+| ---- | ----- | ---------- | ----------------| ------------| ---- | ----- | ---- | ----- |
 | [Rwanda Kinini Autumn Harvest Natural](https://cooper.co.je/collections/light-roasted/products/rwanda-kinini-autumn-harvest-natural) | Light | 6 | 3 | +2C | 17g | 40g | 35s |  Lemon initially, milk chocolate after taste that kicks in after a second |
 | [Nicaragua Jinotegal](https://cooper.co.je/collections/medium-roasted/products/nicaragua-santa-maria) | Medium | 6 | 7 | - | 18g | 36g | 31s | Subtle milk chocolate |
 | [Sumatra Mandheling](https://cooper.co.je/collections/dark-roasted/products/sumatra-mandheling) | Dark | 6 | 6 | -2C | 18g | 36g | 29s |  Hints of caramel/toffee with a split double shot into an 8oz latte |
