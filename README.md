@@ -39,6 +39,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Storing beans](#storing-beans)
 - [Steaming milk and latte art](#steaming-milk-and-latte-art)
 - [Hot chocolate](#hot-chocolate)
+- [Recipes and tasting notes](#recipes-and-tasting-notes)
 
 ## tl;dr
 
@@ -255,7 +256,7 @@ This might be an unpopular opinion but ... when you're starting out, you're goin
 
 ## Storing beans
 
-I originally used a large airtight mason jar for storing beans, and that did work *when* the jar was kept relatively full. The beans did age quickly once I had a large amount of air in there though. I bought two 250g bags of the same beans, opened the first and stored it in the mason jar, with the beans only filling about one third of the jar's capacity. On day one, the espresso shots were fantastic, with lots of crema and identifable fruity tasting notes. On day two, everything changed. I had to grind two steps finer to slow the shots down, and the resulting shots had much less crema and flavour. Sufficient for milk-based drinks, but definitely not the same. Once those beans were finished, I opened the second bag, reset the grinder to the original coarser setting, and everything was good once again. I stored these new beans in a resealable bag, with the air pushed out. Shots for the rest of the bag were consistently good, with no grind size changes required. All of this made me realise that having an airtight jar is meaningless if there's more air than beans. I've now ordered an [Airscape canister](https://planetarydesign.com/shop/airscape-kitchen-canisters/) to store my beans.
+I originally used a large airtight mason jar for storing beans, and that did work *when* the jar was kept relatively full. The beans did age quickly once I had a large amount of air in there though. I bought two 250g bags of the same beans, opened the first and stored it in the mason jar, with the beans only filling about one third of the jar's capacity. On day one, the espresso shots were fantastic, with lots of crema and identifable fruity tasting notes. On day two, everything changed. I had to grind two steps finer to slow the shots down, and the resulting shots had much less crema and flavour. Sufficient for milk-based drinks, but definitely not the same. Once those beans were finished, I opened the second bag, reset the grinder to the original coarser setting, and everything was good once again. I stored these new beans in a resealable bag, with the air pushed out. Shots for the rest of the bag were consistently good, with no grind size changes required. All of this made me realise that having an airtight jar is meaningless if there's more air than beans. I've now use an [Airscape canister](https://planetarydesign.com/shop/airscape-kitchen-canisters/) to store my beans and it's a total game changer for shot consistency.
 
 ## Steaming milk and latte art
 
@@ -301,3 +302,13 @@ You can adjust the initial espresso sized hot chocolate as needed for taste, wit
 The consistency of hot chocolate is slightly thicker than espresso, which does make pouring latte art a bit harder. It's a great way to practice though (both steaming milk, and pouring latte art), without the caffeine intake. I even do cortado size portions for my kids. 
 
 ![](hot-chocolate.jpg)
+
+## Recipes and tasting notes
+
+This is a record of the beans I've tried. Although you likely won't have the same beans/batch, this might provide a starting point for something you're trying to dial in.
+
+| Bean | Roast | Inner Burr | Grinder Setting | Temperature | Dose | Yield | Time | Notes |
+| --- | ---
+| [Rwanda Kinini Autumn Harvest Natural](https://cooper.co.je/collections/light-roasted/products/rwanda-kinini-autumn-harvest-natural) | Light | 6 | 3 | +2C | 17g | 40g | 35s |  Lemon initially, milk chocolate after taste that kicks in after a second |
+| [Nicaragua Jinotegal](https://cooper.co.je/collections/medium-roasted/products/nicaragua-santa-maria) | Medium | 6 | 7 | - | 18g | 36g | 31s | Subtle milk chocolate |
+| [Sumatra Mandheling](https://cooper.co.je/collections/dark-roasted/products/sumatra-mandheling) | Dark | 6 | 6 | -2C | 18g | 36g | 29s |  Hints of caramel/toffee with a split double shot into an 8oz latte |
