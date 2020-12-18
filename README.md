@@ -311,4 +311,4 @@ This is a record of the beans I've tried. Although you likely won't have the sam
 | ---- | ----- | ---------- | ----------------| ------------| ---- | ----- | ---- | ----- |
 | [Rwanda Kinini Autumn Harvest Natural](https://cooper.co.je/collections/light-roasted/products/rwanda-kinini-autumn-harvest-natural) | Light | 6 | 3 | +2C | 17g | 40g | 35s |  Lemon initially, milk chocolate after taste that kicks in after a second |
 | [Nicaragua Jinotegal](https://cooper.co.je/collections/medium-roasted/products/nicaragua-santa-maria) | Medium | 6 | 7 | - | 18g | 36g | 31s | Subtle milk chocolate |
-| [Sumatra Mandheling](https://cooper.co.je/collections/dark-roasted/products/sumatra-mandheling) | Dark | 6 | 6 | -2C | 18g | 36g | 29s |  Hints of caramel/toffee with a split double shot into an 8oz latte |
+| [Sumatra Mandheling](https://cooper.co.je/collections/dark-roasted/products/sumatra-mandheling) | Dark | 6 | 7 | -2C | 18g | 36g | 29s |  Hints of caramel/toffee with a split double shot into an 8oz latte |
