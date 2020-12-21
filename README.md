@@ -39,6 +39,7 @@ As you'll see shortly, this was exactly my first experience too. If you don't wa
 - [Storing beans](#storing-beans)
 - [Steaming milk and latte art](#steaming-milk-and-latte-art)
 - [Hot chocolate](#hot-chocolate)
+- [Recommended accessories](#recommended-accessories)
 - [Recipes and tasting notes](#recipes-and-tasting-notes)
 
 ## tl;dr
@@ -157,9 +158,13 @@ Grinding into a dosing cup is less convenient, but:
 
 The built-in grinder doesn't always give you fluffy ground coffee, so needs a little help. I initially ground straight into the portafilter, but that limits the options you have for fluffing up the ground coffee unless you have a dosing ring or funnel.
 
-Certainly on the finer grind settings, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a gentle side-to-side shake to break the clumps up. You may need to rotate the cup 90 degrees, and do the same again. Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Also, don't shake the cup too much otherwise the ground coffee will start to compress in the cup. Alternatively, use the WDT technique to declump the coffee grounds.
+Certainly on the finer grind settings, you might notice some clumps in the ground coffee. If you've ground into a cup, just give it a shake to break the clumps up. Don't shake the cup in circles though, as you'll probably see the clumps getting bigger as they roll around the surface. Alternatively, use the WDT technique to declump the coffee grounds.
 
 > A quick note: When I started using a cup to grind into, I would give the cup a gentle shake to fluff up the grounds, and often the shots would choke. My initial thoughts were, "oh, shaking the cup causes the shot to choke, so I should shake it more gently". Actually, I was interpreting the results in the wrong way - shaking the cup was eliminating the clumps that form when grinding at finer settings, and now the machine was choking on the more consistent grounds, rather than channeling from finding weak paths through the clumpier grounds. Grinding into a cup was what transformed my espresso experience for the better.
+
+![](dosing-cups.jpg)
+
+I initially used a small cup (left) that I found in the local kitchen store. The diameter of the cup almost matches the portafilter, so I could place the portafilter upside-down on the cup, and flip both over in a single movement, to transfer the ground coffee to the portafilter. Although it worked, I'd sometimes lose ground coffee out of the sides because the cup wasn't a perfect fit. I now use the [Crema Coffee Products 54mm dosing cup](https://www.cremacoffeepro.com/collections/tools-for-breville/products/54mm-dosing-cup) (right), which has been specifically designed for the Barista Express. I highly recommend it.
 
 ## Clean and dry the portafilter
 
@@ -302,6 +307,16 @@ You can adjust the initial espresso sized hot chocolate as needed for taste, wit
 The consistency of hot chocolate is slightly thicker than espresso, which does make pouring latte art a bit harder. It's a great way to practice though (both steaming milk, and pouring latte art), without the caffeine intake. I even do cortado size portions for my kids. 
 
 ![](hot-chocolate.jpg)
+
+## Recommended accessories
+
+Here are some of the accessories that I'd recommend to complement the Barista Express.
+
+- A scale (anything small enough to fit on the drip tray, with an accuracy to 0.1g)
+- [Crema Coffee Products dosing cup](https://www.cremacoffeepro.com/collections/tools-for-breville/products/54mm-dosing-cup) (for fluffing/declumping the ground coffee)
+- [Crema Coffee Products tamper and distributor](https://www.cremacoffeepro.com/collections/tools-for-breville/products/53mm-tamper-distributor-combo) (for consistent tamping)
+- [Rhino Pro Milk Pitcher 12oz/360ml](https://rhinocoffeegear.com/rhino-coffee-gear-professional-milk-pitcher-12oz-360ml.html) (the perfect size for an 8oz/250ml latte)
+- [Duralex Picardie glasses](https://www.duralex.com/picardie.html) (13cl for cortados, 25cl for lattes)
 
 ## Recipes and tasting notes
 
