@@ -1,0 +1,120 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+.centered {
+    text-align: center;
+}
+#header {
+    background: #ffffff;
+    color: #000000;
+    text-align: center;
+    padding: 50px 0px 60px 0px;
+    font-size: 20px;
+}
+#header .label {
+  font-size: 13px;
+}
+#footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 13px;
+}
+.container {
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section {
+    background: #ffffff;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.row {
+    padding-bottom: 20px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+#header h1 {
+    font-weight: normal;
+    font-size: 70px;
+}
+h2 {
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+#header h2 {
+    font-weight: normal;
+    font-size: 30px;
+}
+h3 {
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+h4 {
+    font-size: 18px;
+    font-weight: normal;
+}
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+}
+.mapCaption {
+    margin-top: 10px;
+    font-size: 11px;
+    text-align: center;
+}
+.caption {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.img-thumbnail {
+    color: #ddd;
+}
+a {
+    color: #835C3B;
+    font-weight: normal;
+}
+a:hover {
+    color: #777777;
+}
+.grayscale {
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+}
+.grayscale:hover {
+    -webkit-filter: none; /* Chrome, Safari, Opera */
+    filter: none;
+}
+.small {
+    font-size: 13px;
+}
+.smaller {
+    font-size: 11px;
+}
+#navigation {
+    background: #835C3B;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+#navigation a {
+    color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
